@@ -1,0 +1,29 @@
+Aset pengguna: logo-samira-original.png, brosur-umroh-ceria-jakarta-2026.png
+kaaba.jpg: https://www.samiratravel.co.id/wp-content/uploads/2026/10/image-16.png
+madinah.jpg: https://www.samiratravel.co.id/wp-content/uploads/2026/10/Peaceful-Quran-Reading-at-Al-Masjid-an-Nabawi.png
+masjidil-haram.jpg: https://ilinktours.com/wp-content/uploads/2024/02/pexels-shahbaz-hussain-3018780-4744570-scaled.jpg
+turki.jpg: Danielle Barnes / Unsplash https://unsplash.com/photos/equm1RxkN9k
+mesir.jpg: 2H Media / Unsplash https://unsplash.com/photos/OVofPjTSfOQ
+suite.jpg: https://images.trvl-media.com/lodging/5000000/4040000/4039900/4039860/fe913e94.jpg
+private.jpg: https://hotelsplatform.com/uploads/0000/6/2021/11/28/bed-viwe-haram-clock-royal-tower-a-fairmont-hotel.jpg
+Foto hotel digunakan sebagai ilustrasi suasana, bukan janji fasilitas paket.
+
+rekor-muri-samira.png: https://www.samiratravel.co.id/wp-content/uploads/2026/07/COMPANY-PROFILE-1-2.png
+
+Referensi fasilitas: https://www.samiratravel.co.id/syarat-umroh-samira-travel/
+Referensi hotel: https://www.samiratravel.co.id/hotel-dekat-masjidil-haram-apa-keuntungannya/
+Safara Madinah: brosur Samira yang disediakan pengguna.
+
+assets/dokumentasi/jamaah-01.jpg sampai jamaah-10.jpg: foto asli yang diberikan pengguna untuk dokumentasi website; versi JPEG dioptimalkan, tanpa perubahan isi.
+
+assets/tania-tombeng-profil.jpg: foto profil yang dipilih pengguna untuk Tentang Mitra; sumber asli tersimpan di work/assets/tania-tombeng-profil-original.png.
+
+brosur-lampung-desember-2026.jpg: brosur dan rincian fasilitas yang diberikan pengguna. Harga khusus Safara 36.976.000; Safawi 39.976.000; Majol 55.976.000.
+
+Sertifikat Kompetensi BNSP Tour Leader: dokumen foto yang diberikan pengguna pada 11 November 2026; disimpan sebagai assets/sertifikat-bnsp-tour-leader.png. Ditampilkan sebagai riwayat kompetensi, mengikuti tanggal dan masa berlaku pada dokumen.
+
+Empat video dokumentasi diberikan pengguna pada 11 November 2026: video bu tania 2.mp4; video bu tania.mp4; WhatsApp Video 2026-11-07 at 16.46.27.mp4; WhatsApp Video 2026-11-07 at 16.50.40.mp4. Salinan MP4 asli dan poster dari cuplikan masing-masing video disimpan di assets/dokumentasi/video/.
+
+Video testimoni YouTube yang diberikan pengguna pada 11 November 2026 (ditautkan/diembed, tidak diunduh): https://www.youtube.com/watch?v=IiinsNvVXDo ; https://www.youtube.com/shorts/VLTNb4No0J0 ; https://www.youtube.com/shorts/l-Qr6ILMxXA ; https://www.youtube.com/shorts/rQC6f1cg7gw . Judul dan nama kanal merujuk metadata oEmbed resmi YouTube.
+
+Perizinan penyelenggara, ditinjau 11 November 2026: situs resmi https://www.samiratravel.co.id/ menyebut PPIU dan PIHK; https://www.samiratravel.co.id/izin-travel-umroh-terpercaya/ mencantumkan referensi PPIU 137 Tahun 2020. Nomor PIHK tidak ditambahkan karena belum ditemukan pada teks sumber utama. Slogan Murah, Mudah, Mantap ditambahkan sesuai arahan pengguna.

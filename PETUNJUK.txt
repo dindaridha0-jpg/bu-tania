@@ -1,0 +1,21 @@
+WEB BU TANIA
+
+Website: Umroh Amanah Samira
+Link website: https://umroh-amanah-samira-tania.ar-ray-8739.chatgpt.site
+
+ISI FOLDER
+- umroh-amanah-samira/dist/: file website siap digunakan, termasuk foto, brosur, CSS, dan JavaScript.
+- umroh-amanah-samira/: proyek sumber beserta konfigurasi hosting dan riwayat Git.
+- umroh-amanah-samira-website.zip: arsip website untuk dipindahkan atau diunggah ke hosting statis.
+- sumber-aset.txt di dalam folder proyek: catatan sumber aset.
+- File PNG: tangkapan layar hasil desain dan pemeriksaan.
+- catatan-penelusuran-samira-travel.txt: catatan penelusuran referensi.
+
+EDIT WEBSITE
+- Informasi paket dan harga: umroh-amanah-samira/dist/content.js
+- Tampilan: umroh-amanah-samira/dist/style.css
+- Halaman dan interaksi: umroh-amanah-samira/dist/app.js
+- Tema terang/gelap: umroh-amanah-samira/dist/theme.js
+- Foto dan brosur: umroh-amanah-samira/dist/assets/
+
+Website ini statis, tanpa backend. Pemindahan folder lokal tidak mengubah website yang sudah ditayangkan.

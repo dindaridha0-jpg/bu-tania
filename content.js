@@ -9,13 +9,12 @@ window.SITE = {
       "short": "Ceria 9 Hari",
       "category": "reguler",
       "label": "UMROH EKONOMI / REGULER",
-      "price": 31000000,
-      "priceLabel": "Mulai dari",
+      "priceLabel": "Konsultasi dengan Mitra",
       "image": "assets/kaaba.jpg",
       "alt": "Ka’bah di Masjidil Haram",
       "location": "Jakarta–Jeddah",
       "description": "9 hari bersama Saudia. Pilihan Umroh Ceria berangkat dari Jakarta.",
-      "intro": "Umroh Ceria 9 hari dengan penerbangan Saudia dari Jakarta menuju Jeddah, mulai Rp31 jutaan per jamaah sesuai brosur. Harga dapat berubah sewaktu-waktu; jadwal dan ketersediaan perlu dikonfirmasikan kembali dengan Mitra.",
+      "intro": "Umroh Ceria 9 hari dengan penerbangan Saudia dari Jakarta menuju Jeddah. Harga dapat berubah sewaktu-waktu; jadwal dan ketersediaan perlu dikonfirmasikan kembali dengan Mitra.",
       "highlights": [
         "9 hari",
         "Saudia",
@@ -27,11 +26,9 @@ window.SITE = {
         "Rincian harga akhir serta komponen yang belum termasuk",
         "Persyaratan dokumen dan tahapan pendaftaran"
       ],
-      "brochure": "assets/brosur-umroh-ceria-jakarta-2026.png",
-      "brochureTitle": "Brosur Umroh Ceria Jakarta",
-      "brochureDescription": "Pilihan 9, 12, dan 16 hari bersama Saudia",
       "brochurePeriod": "Oktober–Desember 2026",
-      "addOn": "One-way Haramain Train Rp1.000.000, minimal pembelian 1 bus sesuai brosur. Ketersediaan dan ketentuan dikonfirmasi dengan Mitra."
+      "addOn": "Pilihan perjalanan dengan Haramain Train dapat dikonsultasikan bersama Mitra, mengikuti ketersediaan dan ketentuan program.",
+      "ceria": true
     },
     {
       "id": "umroh-ceria-12-hari",
@@ -39,13 +36,12 @@ window.SITE = {
       "short": "Ceria 12 Hari",
       "category": "reguler",
       "label": "UMROH EKONOMI / REGULER",
-      "price": 33000000,
-      "priceLabel": "Mulai dari",
+      "priceLabel": "Konsultasi dengan Mitra",
       "image": "assets/masjidil-haram.jpg",
       "alt": "Panorama Masjidil Haram di Makkah",
       "location": "Jakarta–Jeddah",
       "description": "12 hari bersama Saudia. Pilihan Umroh Ceria berangkat dari Jakarta.",
-      "intro": "Umroh Ceria 12 hari dengan penerbangan Saudia dari Jakarta menuju Jeddah, mulai Rp33 jutaan per jamaah sesuai brosur. Harga dapat berubah sewaktu-waktu; jadwal dan ketersediaan perlu dikonfirmasikan kembali dengan Mitra.",
+      "intro": "Umroh Ceria 12 hari dengan penerbangan Saudia dari Jakarta menuju Jeddah. Harga dapat berubah sewaktu-waktu; jadwal dan ketersediaan perlu dikonfirmasikan kembali dengan Mitra.",
       "highlights": [
         "12 hari",
         "Saudia",
@@ -57,11 +53,9 @@ window.SITE = {
         "Rincian harga akhir serta komponen yang belum termasuk",
         "Persyaratan dokumen dan tahapan pendaftaran"
       ],
-      "brochure": "assets/brosur-umroh-ceria-jakarta-2026.png",
-      "brochureTitle": "Brosur Umroh Ceria Jakarta",
-      "brochureDescription": "Pilihan 9, 12, dan 16 hari bersama Saudia",
       "brochurePeriod": "Oktober–Desember 2026",
-      "addOn": "One-way Haramain Train Rp1.000.000, minimal pembelian 1 bus sesuai brosur. Ketersediaan dan ketentuan dikonfirmasi dengan Mitra."
+      "addOn": "Pilihan perjalanan dengan Haramain Train dapat dikonsultasikan bersama Mitra, mengikuti ketersediaan dan ketentuan program.",
+      "ceria": true
     },
     {
       "id": "umroh-ceria-16-hari",
@@ -69,13 +63,12 @@ window.SITE = {
       "short": "Ceria 16 Hari",
       "category": "reguler",
       "label": "UMROH EKONOMI / REGULER",
-      "price": 36000000,
-      "priceLabel": "Mulai dari",
+      "priceLabel": "Konsultasi dengan Mitra",
       "image": "assets/madinah.jpg",
       "alt": "Masjid Nabawi di Madinah",
       "location": "Jakarta–Jeddah",
       "description": "16 hari bersama Saudia. Pilihan Umroh Ceria berangkat dari Jakarta.",
-      "intro": "Umroh Ceria 16 hari dengan penerbangan Saudia dari Jakarta menuju Jeddah, mulai Rp36 jutaan per jamaah sesuai brosur. Harga dapat berubah sewaktu-waktu; jadwal dan ketersediaan perlu dikonfirmasikan kembali dengan Mitra.",
+      "intro": "Umroh Ceria 16 hari dengan penerbangan Saudia dari Jakarta menuju Jeddah. Harga dapat berubah sewaktu-waktu; jadwal dan ketersediaan perlu dikonfirmasikan kembali dengan Mitra.",
       "highlights": [
         "16 hari",
         "Saudia",
@@ -87,11 +80,9 @@ window.SITE = {
         "Rincian harga akhir serta komponen yang belum termasuk",
         "Persyaratan dokumen dan tahapan pendaftaran"
       ],
-      "brochure": "assets/brosur-umroh-ceria-jakarta-2026.png",
-      "brochureTitle": "Brosur Umroh Ceria Jakarta",
-      "brochureDescription": "Pilihan 9, 12, dan 16 hari bersama Saudia",
       "brochurePeriod": "Oktober–Desember 2026",
-      "addOn": "One-way Haramain Train Rp1.000.000, minimal pembelian 1 bus sesuai brosur. Ketersediaan dan ketentuan dikonfirmasi dengan Mitra."
+      "addOn": "Pilihan perjalanan dengan Haramain Train dapat dikonsultasikan bersama Mitra, mengikuti ketersediaan dan ketentuan program.",
+      "ceria": true
     },
     {
       "id": "paket-safara",
@@ -99,13 +90,12 @@ window.SITE = {
       "short": "Safara",
       "category": "reguler",
       "label": "UMROH EKONOMI / REGULER",
-      "price": 32000000,
-      "priceLabel": "Mulai dari",
+      "priceLabel": "Konsultasi dengan Mitra",
       "image": "assets/kaaba.jpg",
       "alt": "Pintu Ka’bah dan kiswah emas di Masjidil Haram",
       "location": "Makkah, Arab Saudi",
       "description": "Pilihan umroh reguler untuk memulai perjalanan menuju Baitullah.",
-      "intro": "Umroh Ekonomi / Reguler dengan Paket Safara, mulai dari Rp32 jutaan per jamaah. Konsultasikan jadwal, durasi, pilihan kamar dan rincian fasilitas terbaru dengan Mitra. Harga dapat berubah sewaktu-waktu.",
+      "intro": "Umroh Ekonomi / Reguler dengan Paket Safara. Konsultasikan jadwal, durasi, pilihan kamar dan rincian fasilitas terbaru dengan Mitra. Harga dapat berubah sewaktu-waktu.",
       "highlights": [
         "Umroh Ekonomi / Reguler",
         "Konsultasi personal",
@@ -137,13 +127,12 @@ window.SITE = {
       "short": "Safawi",
       "category": "reguler",
       "label": "UMROH EKONOMI / REGULER",
-      "price": 39000000,
-      "priceLabel": "Mulai dari",
+      "priceLabel": "Konsultasi dengan Mitra",
       "image": "assets/madinah.jpg",
       "alt": "Suasana Masjid Nabawi di Madinah",
       "location": "Madinah, Arab Saudi",
       "description": "Rencanakan ibadah Anda dengan pilihan perjalanan umroh reguler Safawi.",
-      "intro": "Umroh Ekonomi / Reguler dengan Paket Safawi, mulai dari Rp39 jutaan per jamaah. Konsultasikan jadwal, durasi, pilihan kamar dan rincian fasilitas terbaru dengan Mitra. Harga dapat berubah sewaktu-waktu.",
+      "intro": "Umroh Ekonomi / Reguler dengan Paket Safawi. Konsultasikan jadwal, durasi, pilihan kamar dan rincian fasilitas terbaru dengan Mitra. Harga dapat berubah sewaktu-waktu.",
       "highlights": [
         "Umroh Ekonomi / Reguler",
         "Konsultasi personal",
@@ -176,13 +165,12 @@ window.SITE = {
       "short": "Sukari",
       "category": "vip",
       "label": "UMROH VIP",
-      "price": 50000000,
-      "priceLabel": "Mulai dari",
+      "priceLabel": "Konsultasi dengan Mitra",
       "image": "assets/suite.jpg",
       "alt": "Ilustrasi interior suite dengan panorama Masjidil Haram",
       "location": "Inspirasi kenyamanan di Tanah Suci",
       "description": "Pilihan perjalanan VIP untuk Anda yang mengutamakan kenyamanan.",
-      "intro": "Umroh VIP dengan Paket Sukari, mulai dari Rp50 jutaan per jamaah. Konsultasikan jadwal, durasi, pilihan kamar dan rincian fasilitas terbaru dengan Mitra. Harga dapat berubah sewaktu-waktu.",
+      "intro": "Umroh VIP dengan Paket Sukari. Konsultasikan jadwal, durasi, pilihan kamar dan rincian fasilitas terbaru dengan Mitra. Harga dapat berubah sewaktu-waktu.",
       "highlights": [
         "Umroh VIP",
         "Konsultasi personal",
@@ -215,13 +203,12 @@ window.SITE = {
       "short": "Majol",
       "category": "vip",
       "label": "UMROH VIP",
-      "price": 55000000,
-      "priceLabel": "Mulai dari",
+      "priceLabel": "Konsultasi dengan Mitra",
       "image": "assets/private.jpg",
       "alt": "Ilustrasi kenyamanan kamar dengan panorama Masjidil Haram",
       "location": "Inspirasi kenyamanan di Tanah Suci",
       "description": "Pilihan umroh VIP untuk rencana perjalanan Anda dan keluarga.",
-      "intro": "Umroh VIP dengan Paket Majol, mulai dari Rp55 jutaan per jamaah. Konsultasikan jadwal, durasi, pilihan kamar dan rincian fasilitas terbaru dengan Mitra. Harga dapat berubah sewaktu-waktu.",
+      "intro": "Umroh VIP dengan Paket Majol. Konsultasikan jadwal, durasi, pilihan kamar dan rincian fasilitas terbaru dengan Mitra. Harga dapat berubah sewaktu-waktu.",
       "highlights": [
         "Umroh VIP",
         "Konsultasi personal",
@@ -255,8 +242,7 @@ window.SITE = {
       "short": "VVIP Private",
       "category": "private",
       "label": "PERJALANAN PERSONAL",
-      "price": null,
-      "priceLabel": "Harga tentatif",
+      "priceLabel": "Konsultasi dengan Mitra",
       "image": "assets/private.jpg",
       "alt": "Ilustrasi kamar dengan pemandangan Masjidil Haram pada malam hari",
       "location": "Inspirasi perjalanan private",
@@ -281,13 +267,12 @@ window.SITE = {
       "short": "Plus Turki",
       "category": "plus",
       "label": "IBADAH & JEJAK PERADABAN",
-      "price": 50000000,
-      "priceLabel": "Mulai dari",
+      "priceLabel": "Konsultasi dengan Mitra",
       "image": "assets/turki.jpg",
       "alt": "Masjid Ortaköy di tepi Selat Bosphorus, Istanbul",
       "location": "Istanbul, Turki",
       "description": "Ibadah di Tanah Suci dan inspirasi perjalanan ke negeri dua benua.",
-      "intro": "Perjalanan umroh dengan inspirasi destinasi Turki, mulai dari Rp50 jutaan. Rute, jadwal, dan fasilitas mengikuti program yang tersedia. Harga dapat berubah sewaktu-waktu.",
+      "intro": "Perjalanan umroh dengan inspirasi destinasi Turki. Rute, jadwal, dan fasilitas mengikuti program yang tersedia. Harga dapat berubah sewaktu-waktu.",
       "highlights": [
         "Pilihan program umroh plus",
         "Inspirasi destinasi Turki",
@@ -307,8 +292,7 @@ window.SITE = {
       "short": "Plus Mesir",
       "category": "plus",
       "label": "IBADAH & JEJAK SEJARAH",
-      "price": null,
-      "priceLabel": "Harga tentatif",
+      "priceLabel": "Konsultasi dengan Mitra",
       "image": "assets/mesir.jpg",
       "alt": "Piramida Giza dengan langit biru di Mesir",
       "location": "Giza, Mesir",
@@ -334,8 +318,7 @@ window.SITE = {
       "short": "Haji Plus",
       "category": "haji",
       "label": "NIAT BESAR, PERSIAPAN MATANG",
-      "price": null,
-      "priceLabel": "Konsultasikan program",
+      "priceLabel": "Konsultasi dengan Mitra",
       "image": "assets/masjidil-haram.jpg",
       "alt": "Panorama Masjidil Haram dengan jamaah di sekitar Ka’bah",
       "location": "Makkah, Arab Saudi",
@@ -353,6 +336,30 @@ window.SITE = {
         "Informasi jadwal sesuai ketentuan program"
       ],
       "brochure": false
+    },
+    {
+      "id": "umroh-lailatul-qadar",
+      "name": "Umroh Lailatul Qadar",
+      "short": "Lailatul Qadar",
+      "category": "ramadan",
+      "label": "UMROH RAMADAN",
+      "priceLabel": "Konsultasi dengan Mitra",
+      "image": "assets/masjidil-haram.jpg",
+      "alt": "Panorama Masjidil Haram untuk inspirasi ibadah Ramadan",
+      "location": "Makkah & Madinah",
+      "description": "Hidupkan akhir Ramadan di Tanah Suci. Rencanakan perjalanan dan waktu ibadah bersama Mitra.",
+      "intro": "Pilihan perjalanan umroh pada akhir Ramadan untuk memperbanyak ibadah dan mengupayakan keutamaan malam Lailatul Qadar. Konsultasikan jadwal, durasi, akomodasi, dan ketersediaan program bersama Mitra.",
+      "highlights": [
+        "Akhir Ramadan",
+        "Makkah & Madinah",
+        "Pendampingan Mitra"
+      ],
+      "discuss": [
+        "Tanggal keberangkatan dan durasi program Ramadan",
+        "Pilihan hotel, jenis kamar dan ketersediaan",
+        "Rangkaian ibadah, fasilitas serta kebutuhan perjalanan",
+        "Penawaran terbaru dan persiapan pendaftaran"
+      ]
     }
   ],
   "articles": [
@@ -425,8 +432,7 @@ window.SITE = {
       "Manasik umroh sesuai program"
     ],
     "excluded": [
-      "Pembuatan paspor dan vaksin meningitis",
-      "Handling dan perlengkapan umroh Rp1.500.000 sesuai syarat umum",
+      "Handling dan perlengkapan umroh sesuai syarat umum",
       "Perjalanan domestik dan hotel transit bila diperlukan",
       "Kelebihan bagasi dan kebutuhan pribadi",
       "Layanan di luar program serta biaya tambahan pemerintah bila berlaku"
@@ -502,21 +508,17 @@ window.SITE = {
     "duration": "12 hari",
     "airline": "Saudia",
     "route": "Lampung–Jakarta–Jeddah",
-    "brochure": "assets/brosur-lampung-desember-2026.jpg",
     "options": [
       {
         "name": "Safara",
-        "price": 36976000,
         "packageId": "paket-safara"
       },
       {
         "name": "Safawi",
-        "price": 39976000,
         "packageId": "paket-safawi"
       },
       {
         "name": "Majol",
-        "price": 55976000,
         "packageId": "paket-majol"
       }
     ],
@@ -531,11 +533,10 @@ window.SITE = {
       "Penerbangan pulang-pergi Lampung–Jakarta"
     ],
     "excluded": [
-      "Perlengkapan dan handling Rp1.500.000",
-      "Pembuatan paspor",
-      "Vaksin",
+      "Perlengkapan dan handling",
       "Hotel transit Jakarta jika diperlukan"
-    ]
+    ],
+    "image": "assets/kaaba.jpg"
   },
   "videos": [
     {

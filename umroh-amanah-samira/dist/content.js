@@ -423,7 +423,9 @@ window.SITE = {
       "Hotel sesuai program",
       "Bus untuk transfer, ziarah dan tur di Saudi",
       "Makan/minum tiga kali sehari di hotel sesuai program",
-      "Welcome food dan snack ziarah sesuai program",
+      "Welcome Food & Farewell Food Ayam Al Baik (kuliner legendaris Arab Saudi tanpa perlu antre)",
+      "Snack box pada setiap perjalanan ziarah di Makkah & Madinah",
+      "Air Zamzam 5 Liter (mengikuti regulasi maskapai & penerbangan)",
       "Muthawwif berbahasa Indonesia",
       "Tour leader bersertifikasi BNSP",
       "Visa umroh",
@@ -530,7 +532,9 @@ window.SITE = {
       "Antrean Raudhah, mengikuti izin dan ketersediaan akses",
       "Hotel ring 1 dekat masjid sesuai pilihan paket atau setaraf",
       "Makan tiga kali sehari",
-      "Penerbangan pulang-pergi Lampung–Jakarta"
+      "Welcome Food Ayam Al Baik saat kedatangan & snack setiap ziarah",
+      "Penerbangan pulang-pergi Lampung–Jakarta",
+      "Air Zamzam 5 Liter sesuai regulasi maskapai"
     ],
     "excluded": [
       "Perlengkapan dan handling",

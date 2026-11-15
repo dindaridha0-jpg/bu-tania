@@ -421,7 +421,7 @@ window.SITE = {
     "included": [
       "Tiket pesawat internasional pulang-pergi",
       "Hotel sesuai program",
-      "Bus untuk transfer, ziarah dan tur di Saudi",
+      "Bus untuk transportasi, ziarah dan tur di Saudi",
       "Makan/minum tiga kali sehari di hotel sesuai program",
       "Welcome Food & Farewell Food Ayam Al Baik (kuliner legendaris Arab Saudi tanpa perlu antre)",
       "Snack box pada setiap perjalanan ziarah di Makkah & Madinah",
